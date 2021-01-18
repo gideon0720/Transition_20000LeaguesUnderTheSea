@@ -1,6 +1,6 @@
 # 20,000 Leagues Under The Sea
 
-> Here goes your awesome project description!
+> Online reader web page.
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ An online reader web page that represent the book "20,000 Leagues under the sea"
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot.png)
+![Page screenshot](./resources/images/page.png)
 
 ## Technologies
 
