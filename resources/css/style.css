@@ -175,6 +175,7 @@ header h2 {
 
 .definable .word {
   color: #639eff;
+  transition: color 250ms ease-in-out;
 }
 
 .definable .word:hover {
